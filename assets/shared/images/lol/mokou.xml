@@ -1,0 +1,221 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mokou.png">
+	<!-- Created with Adobe Animate version 18.0.0.107 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="mokou down0000" x="0" y="0" width="265" height="351" frameX="-10" frameY="-4" frameWidth="342" frameHeight="371"/>
+	<SubTexture name="mokou down0001" x="265" y="0" width="273" height="353" frameX="-7" frameY="-4" frameWidth="342" frameHeight="371"/>
+	<SubTexture name="mokou down0002" x="538" y="0" width="281" height="355" frameX="-4" frameY="-3" frameWidth="342" frameHeight="371"/>
+	<SubTexture name="mokou down0003" x="819" y="0" width="287" height="357" frameX="-2" frameY="-2" frameWidth="342" frameHeight="371"/>
+	<SubTexture name="mokou down0004" x="1106" y="0" width="293" height="359" frameX="-1" frameY="-1" frameWidth="342" frameHeight="371"/>
+	<SubTexture name="mokou down0005" x="1399" y="0" width="299" height="361" frameX="0" frameY="0" frameWidth="342" frameHeight="371"/>
+	<SubTexture name="mokou down0006" x="1698" y="0" width="299" height="362" frameX="-2" frameY="0" frameWidth="342" frameHeight="371"/>
+	<SubTexture name="mokou down0007" x="1997" y="0" width="301" height="361" frameX="-3" frameY="-1" frameWidth="342" frameHeight="371"/>
+	<SubTexture name="mokou down0008" x="2298" y="0" width="302" height="362" frameX="-4" frameY="-1" frameWidth="342" frameHeight="371"/>
+	<SubTexture name="mokou down0009" x="2600" y="0" width="303" height="362" frameX="-5" frameY="-1" frameWidth="342" frameHeight="371"/>
+	<SubTexture name="mokou down0010" x="2903" y="0" width="305" height="362" frameX="-6" frameY="-2" frameWidth="342" frameHeight="371"/>
+	<SubTexture name="mokou down0011" x="3208" y="0" width="306" height="362" frameX="-7" frameY="-2" frameWidth="342" frameHeight="371"/>
+	<SubTexture name="mokou down0012" x="3514" y="0" width="307" height="362" frameX="-9" frameY="-3" frameWidth="342" frameHeight="371"/>
+	<SubTexture name="mokou down0013" x="0" y="362" width="308" height="362" frameX="-10" frameY="-3" frameWidth="342" frameHeight="371"/>
+	<SubTexture name="mokou down0014" x="308" y="362" width="310" height="362" frameX="-11" frameY="-4" frameWidth="342" frameHeight="371"/>
+	<SubTexture name="mokou down0015" x="618" y="362" width="310" height="363" frameX="-13" frameY="-4" frameWidth="342" frameHeight="371"/>
+	<SubTexture name="mokou down0016" x="928" y="362" width="312" height="363" frameX="-14" frameY="-4" frameWidth="342" frameHeight="371"/>
+	<SubTexture name="mokou down0017" x="1240" y="362" width="312" height="364" frameX="-16" frameY="-4" frameWidth="342" frameHeight="371"/>
+	<SubTexture name="mokou down0018" x="1552" y="362" width="313" height="363" frameX="-17" frameY="-5" frameWidth="342" frameHeight="371"/>
+	<SubTexture name="mokou down0019" x="1865" y="362" width="314" height="364" frameX="-19" frameY="-5" frameWidth="342" frameHeight="371"/>
+	<SubTexture name="mokou down0020" x="2179" y="362" width="315" height="363" frameX="-20" frameY="-6" frameWidth="342" frameHeight="371"/>
+	<SubTexture name="mokou down0021" x="2494" y="362" width="316" height="364" frameX="-22" frameY="-6" frameWidth="342" frameHeight="371"/>
+	<SubTexture name="mokou down0022" x="2810" y="362" width="316" height="363" frameX="-24" frameY="-7" frameWidth="342" frameHeight="371"/>
+	<SubTexture name="mokou down0023" x="3126" y="362" width="317" height="364" frameX="-25" frameY="-7" frameWidth="342" frameHeight="371"/>
+	<SubTexture name="mokou idle0000" x="3443" y="362" width="265" height="351" frameX="-16" frameY="-16" frameWidth="347" frameHeight="385"/>
+	<SubTexture name="mokou idle0001" x="3708" y="362" width="270" height="355" frameX="-19" frameY="-14" frameWidth="347" frameHeight="385"/>
+	<SubTexture name="mokou idle0002" x="0" y="726" width="276" height="359" frameX="-21" frameY="-11" frameWidth="347" frameHeight="385"/>
+	<SubTexture name="mokou idle0003" x="276" y="726" width="281" height="364" frameX="-24" frameY="-8" frameWidth="347" frameHeight="385"/>
+	<SubTexture name="mokou idle0004" x="557" y="726" width="286" height="367" frameX="-26" frameY="-6" frameWidth="347" frameHeight="385"/>
+	<SubTexture name="mokou idle0005" x="843" y="726" width="293" height="371" frameX="-26" frameY="-3" frameWidth="347" frameHeight="385"/>
+	<SubTexture name="mokou idle0006" x="1136" y="726" width="303" height="375" frameX="-24" frameY="-1" frameWidth="347" frameHeight="385"/>
+	<SubTexture name="mokou idle0007" x="1439" y="726" width="312" height="378" frameX="-22" frameY="0" frameWidth="347" frameHeight="385"/>
+	<SubTexture name="mokou idle0008" x="1751" y="726" width="320" height="384" frameX="-27" frameY="-1" frameWidth="347" frameHeight="385"/>
+	<SubTexture name="mokou idle0009" x="2071" y="726" width="307" height="375" frameX="-29" frameY="-4" frameWidth="347" frameHeight="385"/>
+	<SubTexture name="mokou idle0010" x="2378" y="726" width="297" height="368" frameX="-27" frameY="-6" frameWidth="347" frameHeight="385"/>
+	<SubTexture name="mokou idle0011" x="2675" y="726" width="290" height="362" frameX="-22" frameY="-10" frameWidth="347" frameHeight="385"/>
+	<SubTexture name="mokou idle0012" x="2965" y="726" width="282" height="358" frameX="-18" frameY="-13" frameWidth="347" frameHeight="385"/>
+	<SubTexture name="mokou idle0013" x="3247" y="726" width="274" height="351" frameX="-13" frameY="-17" frameWidth="347" frameHeight="385"/>
+	<SubTexture name="mokou idle0014" x="3521" y="726" width="275" height="353" frameX="-9" frameY="-15" frameWidth="347" frameHeight="385"/>
+	<SubTexture name="mokou idle0015" x="3796" y="726" width="282" height="359" frameX="-4" frameY="-9" frameWidth="347" frameHeight="385"/>
+	<SubTexture name="mokou idle0016" x="0" y="1110" width="287" height="369" frameX="0" frameY="0" frameWidth="347" frameHeight="385"/>
+	<SubTexture name="mokou idle0017" x="287" y="1110" width="285" height="365" frameX="-2" frameY="-3" frameWidth="347" frameHeight="385"/>
+	<SubTexture name="mokou idle0018" x="572" y="1110" width="283" height="363" frameX="-4" frameY="-5" frameWidth="347" frameHeight="385"/>
+	<SubTexture name="mokou idle0019" x="855" y="1110" width="280" height="360" frameX="-7" frameY="-8" frameWidth="347" frameHeight="385"/>
+	<SubTexture name="mokou idle0020" x="1135" y="1110" width="277" height="358" frameX="-9" frameY="-10" frameWidth="347" frameHeight="385"/>
+	<SubTexture name="mokou idle0021" x="1412" y="1110" width="275" height="355" frameX="-11" frameY="-13" frameWidth="347" frameHeight="385"/>
+	<SubTexture name="mokou idle0022" x="1687" y="1110" width="272" height="352" frameX="-14" frameY="-16" frameWidth="347" frameHeight="385"/>
+	<SubTexture name="mokou idle0023" x="3443" y="362" width="265" height="351" frameX="-16" frameY="-16" frameWidth="347" frameHeight="385"/>
+	<SubTexture name="mokou left0000" x="1959" y="1110" width="265" height="351" frameX="-68" frameY="-25" frameWidth="333" frameHeight="380"/>
+	<SubTexture name="mokou left0001" x="2224" y="1110" width="268" height="353" frameX="-65" frameY="-24" frameWidth="333" frameHeight="380"/>
+	<SubTexture name="mokou left0002" x="2492" y="1110" width="271" height="355" frameX="-61" frameY="-22" frameWidth="333" frameHeight="380"/>
+	<SubTexture name="mokou left0003" x="2763" y="1110" width="274" height="356" frameX="-57" frameY="-21" frameWidth="333" frameHeight="380"/>
+	<SubTexture name="mokou left0004" x="3037" y="1110" width="276" height="358" frameX="-54" frameY="-19" frameWidth="333" frameHeight="380"/>
+	<SubTexture name="mokou left0005" x="3313" y="1110" width="279" height="361" frameX="-50" frameY="-17" frameWidth="333" frameHeight="380"/>
+	<SubTexture name="mokou left0006" x="3592" y="1110" width="282" height="363" frameX="-47" frameY="-15" frameWidth="333" frameHeight="380"/>
+	<SubTexture name="mokou left0007" x="0" y="1479" width="284" height="365" frameX="-44" frameY="-13" frameWidth="333" frameHeight="380"/>
+	<SubTexture name="mokou left0008" x="284" y="1479" width="287" height="366" frameX="-40" frameY="-12" frameWidth="333" frameHeight="380"/>
+	<SubTexture name="mokou left0009" x="571" y="1479" width="287" height="367" frameX="-40" frameY="-11" frameWidth="333" frameHeight="380"/>
+	<SubTexture name="mokou left0010" x="858" y="1479" width="287" height="368" frameX="-40" frameY="-10" frameWidth="333" frameHeight="380"/>
+	<SubTexture name="mokou left0011" x="1145" y="1479" width="286" height="370" frameX="-40" frameY="-9" frameWidth="333" frameHeight="380"/>
+	<SubTexture name="mokou left0012" x="1431" y="1479" width="288" height="371" frameX="-39" frameY="-8" frameWidth="333" frameHeight="380"/>
+	<SubTexture name="mokou left0013" x="1719" y="1479" width="292" height="372" frameX="-35" frameY="-7" frameWidth="333" frameHeight="380"/>
+	<SubTexture name="mokou left0014" x="2011" y="1479" width="294" height="373" frameX="-32" frameY="-6" frameWidth="333" frameHeight="380"/>
+	<SubTexture name="mokou left0015" x="2305" y="1479" width="298" height="375" frameX="-28" frameY="-5" frameWidth="333" frameHeight="380"/>
+	<SubTexture name="mokou left0016" x="2603" y="1479" width="302" height="374" frameX="-24" frameY="-5" frameWidth="333" frameHeight="380"/>
+	<SubTexture name="mokou left0017" x="2905" y="1479" width="304" height="376" frameX="-22" frameY="-4" frameWidth="333" frameHeight="380"/>
+	<SubTexture name="mokou left0018" x="3209" y="1479" width="308" height="377" frameX="-18" frameY="-3" frameWidth="333" frameHeight="380"/>
+	<SubTexture name="mokou left0019" x="3517" y="1479" width="312" height="377" frameX="-14" frameY="-3" frameWidth="333" frameHeight="380"/>
+	<SubTexture name="mokou left0020" x="0" y="1856" width="315" height="378" frameX="-11" frameY="-2" frameWidth="333" frameHeight="380"/>
+	<SubTexture name="mokou left0021" x="315" y="1856" width="319" height="379" frameX="-7" frameY="-1" frameWidth="333" frameHeight="380"/>
+	<SubTexture name="mokou left0022" x="634" y="1856" width="321" height="380" frameX="-4" frameY="0" frameWidth="333" frameHeight="380"/>
+	<SubTexture name="mokou left0023" x="955" y="1856" width="325" height="380" frameX="0" frameY="0" frameWidth="333" frameHeight="380"/>
+	<SubTexture name="mokou miss down0000" x="0" y="0" width="265" height="351" frameX="0" frameY="-2" frameWidth="342" frameHeight="371"/>
+	<SubTexture name="mokou miss down0001" x="1280" y="1856" width="255" height="348" frameX="0" frameY="-5" frameWidth="317" frameHeight="368"/>
+	<SubTexture name="mokou miss down0002" x="1535" y="1856" width="255" height="348" frameX="0" frameY="-5" frameWidth="317" frameHeight="368"/>
+	<SubTexture name="mokou miss down0003" x="1790" y="1856" width="257" height="351" frameX="-3" frameY="-4" frameWidth="317" frameHeight="368"/>
+	<SubTexture name="mokou miss down0004" x="2047" y="1856" width="259" height="353" frameX="-6" frameY="-3" frameWidth="317" frameHeight="368"/>
+	<SubTexture name="mokou miss down0005" x="2306" y="1856" width="260" height="355" frameX="-9" frameY="-2" frameWidth="317" frameHeight="368"/>
+	<SubTexture name="mokou miss down0006" x="2566" y="1856" width="263" height="356" frameX="-12" frameY="-2" frameWidth="317" frameHeight="368"/>
+	<SubTexture name="mokou miss down0007" x="2829" y="1856" width="264" height="359" frameX="-15" frameY="-1" frameWidth="317" frameHeight="368"/>
+	<SubTexture name="mokou miss down0008" x="3093" y="1856" width="265" height="360" frameX="-19" frameY="-1" frameWidth="317" frameHeight="368"/>
+	<SubTexture name="mokou miss down0009" x="3358" y="1856" width="268" height="362" frameX="-21" frameY="0" frameWidth="317" frameHeight="368"/>
+	<SubTexture name="mokou miss down0010" x="3626" y="1856" width="269" height="361" frameX="-21" frameY="-1" frameWidth="317" frameHeight="368"/>
+	<SubTexture name="mokou miss down0011" x="0" y="2236" width="272" height="362" frameX="-21" frameY="-1" frameWidth="317" frameHeight="368"/>
+	<SubTexture name="mokou miss down0012" x="272" y="2236" width="274" height="361" frameX="-21" frameY="-2" frameWidth="317" frameHeight="368"/>
+	<SubTexture name="mokou miss down0013" x="546" y="2236" width="276" height="361" frameX="-21" frameY="-2" frameWidth="317" frameHeight="368"/>
+	<SubTexture name="mokou miss down0014" x="822" y="2236" width="278" height="362" frameX="-21" frameY="-2" frameWidth="317" frameHeight="368"/>
+	<SubTexture name="mokou miss down0015" x="1100" y="2236" width="280" height="362" frameX="-21" frameY="-2" frameWidth="317" frameHeight="368"/>
+	<SubTexture name="mokou miss down0016" x="1380" y="2236" width="282" height="361" frameX="-21" frameY="-3" frameWidth="317" frameHeight="368"/>
+	<SubTexture name="mokou miss down0017" x="1662" y="2236" width="284" height="362" frameX="-21" frameY="-3" frameWidth="317" frameHeight="368"/>
+	<SubTexture name="mokou miss down0018" x="1946" y="2236" width="286" height="362" frameX="-21" frameY="-3" frameWidth="317" frameHeight="368"/>
+	<SubTexture name="mokou miss down0019" x="2232" y="2236" width="288" height="362" frameX="-21" frameY="-4" frameWidth="317" frameHeight="368"/>
+	<SubTexture name="mokou miss down0020" x="2520" y="2236" width="290" height="362" frameX="-21" frameY="-4" frameWidth="317" frameHeight="368"/>
+	<SubTexture name="mokou miss down0021" x="2810" y="2236" width="292" height="362" frameX="-21" frameY="-5" frameWidth="317" frameHeight="368"/>
+	<SubTexture name="mokou miss down0022" x="3102" y="2236" width="294" height="362" frameX="-21" frameY="-5" frameWidth="317" frameHeight="368"/>
+	<SubTexture name="mokou miss down0023" x="3396" y="2236" width="296" height="362" frameX="-21" frameY="-6" frameWidth="317" frameHeight="368"/>
+	<SubTexture name="mokou miss left0000" x="3692" y="2236" width="265" height="351" frameX="-37" frameY="-11" frameWidth="302" frameHeight="364"/>
+	<SubTexture name="mokou miss left0001" x="0" y="2598" width="255" height="348" frameX="-37" frameY="-14" frameWidth="302" frameHeight="364"/>
+	<SubTexture name="mokou miss left0002" x="255" y="2598" width="255" height="348" frameX="-37" frameY="-14" frameWidth="302" frameHeight="364"/>
+	<SubTexture name="mokou miss left0003" x="510" y="2598" width="256" height="351" frameX="-36" frameY="-12" frameWidth="302" frameHeight="364"/>
+	<SubTexture name="mokou miss left0004" x="766" y="2598" width="257" height="352" frameX="-35" frameY="-11" frameWidth="302" frameHeight="364"/>
+	<SubTexture name="mokou miss left0005" x="1023" y="2598" width="258" height="354" frameX="-34" frameY="-9" frameWidth="302" frameHeight="364"/>
+	<SubTexture name="mokou miss left0006" x="1281" y="2598" width="258" height="357" frameX="-34" frameY="-7" frameWidth="302" frameHeight="364"/>
+	<SubTexture name="mokou miss left0007" x="1539" y="2598" width="259" height="359" frameX="-33" frameY="-5" frameWidth="302" frameHeight="364"/>
+	<SubTexture name="mokou miss left0008" x="1798" y="2598" width="260" height="361" frameX="-32" frameY="-3" frameWidth="302" frameHeight="364"/>
+	<SubTexture name="mokou miss left0009" x="2058" y="2598" width="260" height="361" frameX="-31" frameY="-3" frameWidth="302" frameHeight="364"/>
+	<SubTexture name="mokou miss left0010" x="2318" y="2598" width="262" height="362" frameX="-29" frameY="-2" frameWidth="302" frameHeight="364"/>
+	<SubTexture name="mokou miss left0011" x="2580" y="2598" width="263" height="362" frameX="-27" frameY="-2" frameWidth="302" frameHeight="364"/>
+	<SubTexture name="mokou miss left0012" x="2843" y="2598" width="266" height="362" frameX="-24" frameY="-2" frameWidth="302" frameHeight="364"/>
+	<SubTexture name="mokou miss left0013" x="3109" y="2598" width="267" height="362" frameX="-22" frameY="-2" frameWidth="302" frameHeight="364"/>
+	<SubTexture name="mokou miss left0014" x="3376" y="2598" width="269" height="363" frameX="-20" frameY="-1" frameWidth="302" frameHeight="364"/>
+	<SubTexture name="mokou miss left0015" x="3645" y="2598" width="270" height="363" frameX="-18" frameY="-1" frameWidth="302" frameHeight="364"/>
+	<SubTexture name="mokou miss left0016" x="0" y="2961" width="272" height="363" frameX="-16" frameY="-1" frameWidth="302" frameHeight="364"/>
+	<SubTexture name="mokou miss left0017" x="272" y="2961" width="274" height="363" frameX="-13" frameY="-1" frameWidth="302" frameHeight="364"/>
+	<SubTexture name="mokou miss left0018" x="546" y="2961" width="276" height="363" frameX="-11" frameY="-1" frameWidth="302" frameHeight="364"/>
+	<SubTexture name="mokou miss left0019" x="822" y="2961" width="278" height="363" frameX="-9" frameY="-1" frameWidth="302" frameHeight="364"/>
+	<SubTexture name="mokou miss left0020" x="1100" y="2961" width="279" height="364" frameX="-7" frameY="0" frameWidth="302" frameHeight="364"/>
+	<SubTexture name="mokou miss left0021" x="1379" y="2961" width="280" height="364" frameX="-5" frameY="0" frameWidth="302" frameHeight="364"/>
+	<SubTexture name="mokou miss left0022" x="1659" y="2961" width="283" height="364" frameX="-2" frameY="0" frameWidth="302" frameHeight="364"/>
+	<SubTexture name="mokou miss left0023" x="1942" y="2961" width="285" height="364" frameX="0" frameY="0" frameWidth="302" frameHeight="364"/>
+	<SubTexture name="mokou miss right0000" x="2227" y="2961" width="265" height="351" frameX="0" frameY="-3" frameWidth="307" frameHeight="364"/>
+	<SubTexture name="mokou miss right0001" x="2492" y="2961" width="255" height="348" frameX="0" frameY="-6" frameWidth="307" frameHeight="364"/>
+	<SubTexture name="mokou miss right0002" x="2747" y="2961" width="255" height="348" frameX="0" frameY="-6" frameWidth="307" frameHeight="364"/>
+	<SubTexture name="mokou miss right0003" x="3002" y="2961" width="256" height="351" frameX="-5" frameY="-5" frameWidth="307" frameHeight="364"/>
+	<SubTexture name="mokou miss right0004" x="3258" y="2961" width="259" height="354" frameX="-9" frameY="-3" frameWidth="307" frameHeight="364"/>
+	<SubTexture name="mokou miss right0005" x="3517" y="2961" width="260" height="355" frameX="-14" frameY="-3" frameWidth="307" frameHeight="364"/>
+	<SubTexture name="mokou miss right0006" x="3777" y="2961" width="261" height="357" frameX="-19" frameY="-3" frameWidth="307" frameHeight="364"/>
+	<SubTexture name="mokou miss right0007" x="0" y="3325" width="263" height="359" frameX="-23" frameY="-2" frameWidth="307" frameHeight="364"/>
+	<SubTexture name="mokou miss right0008" x="263" y="3325" width="264" height="359" frameX="-23" frameY="-2" frameWidth="307" frameHeight="364"/>
+	<SubTexture name="mokou miss right0009" x="527" y="3325" width="265" height="360" frameX="-24" frameY="-1" frameWidth="307" frameHeight="364"/>
+	<SubTexture name="mokou miss right0010" x="792" y="3325" width="266" height="360" frameX="-24" frameY="-2" frameWidth="307" frameHeight="364"/>
+	<SubTexture name="mokou miss right0011" x="1058" y="3325" width="267" height="361" frameX="-24" frameY="-1" frameWidth="307" frameHeight="364"/>
+	<SubTexture name="mokou miss right0012" x="1325" y="3325" width="269" height="361" frameX="-24" frameY="-1" frameWidth="307" frameHeight="364"/>
+	<SubTexture name="mokou miss right0013" x="1594" y="3325" width="269" height="361" frameX="-25" frameY="-1" frameWidth="307" frameHeight="364"/>
+	<SubTexture name="mokou miss right0014" x="1863" y="3325" width="270" height="362" frameX="-25" frameY="-1" frameWidth="307" frameHeight="364"/>
+	<SubTexture name="mokou miss right0015" x="2133" y="3325" width="271" height="362" frameX="-25" frameY="-1" frameWidth="307" frameHeight="364"/>
+	<SubTexture name="mokou miss right0016" x="2404" y="3325" width="272" height="362" frameX="-26" frameY="-1" frameWidth="307" frameHeight="364"/>
+	<SubTexture name="mokou miss right0017" x="2676" y="3325" width="273" height="362" frameX="-26" frameY="-1" frameWidth="307" frameHeight="364"/>
+	<SubTexture name="mokou miss right0018" x="2949" y="3325" width="275" height="362" frameX="-26" frameY="-1" frameWidth="307" frameHeight="364"/>
+	<SubTexture name="mokou miss right0019" x="3224" y="3325" width="276" height="363" frameX="-26" frameY="-1" frameWidth="307" frameHeight="364"/>
+	<SubTexture name="mokou miss right0020" x="3500" y="3325" width="276" height="363" frameX="-27" frameY="-1" frameWidth="307" frameHeight="364"/>
+	<SubTexture name="mokou miss right0021" x="3776" y="3325" width="277" height="364" frameX="-27" frameY="0" frameWidth="307" frameHeight="364"/>
+	<SubTexture name="mokou miss right0022" x="0" y="3689" width="278" height="364" frameX="-27" frameY="0" frameWidth="307" frameHeight="364"/>
+	<SubTexture name="mokou miss right0023" x="278" y="3689" width="280" height="364" frameX="-27" frameY="0" frameWidth="307" frameHeight="364"/>
+	<SubTexture name="mokou miss up0000" x="558" y="3689" width="265" height="351" frameX="-25" frameY="-23" frameWidth="290" frameHeight="377"/>
+	<SubTexture name="mokou miss up0001" x="823" y="3689" width="255" height="348" frameX="-25" frameY="-26" frameWidth="290" frameHeight="377"/>
+	<SubTexture name="mokou miss up0002" x="1078" y="3689" width="255" height="348" frameX="-25" frameY="-26" frameWidth="290" frameHeight="377"/>
+	<SubTexture name="mokou miss up0003" x="1333" y="3689" width="256" height="351" frameX="-24" frameY="-24" frameWidth="290" frameHeight="377"/>
+	<SubTexture name="mokou miss up0004" x="1589" y="3689" width="256" height="352" frameX="-24" frameY="-23" frameWidth="290" frameHeight="377"/>
+	<SubTexture name="mokou miss up0005" x="1845" y="3689" width="257" height="353" frameX="-23" frameY="-22" frameWidth="290" frameHeight="377"/>
+	<SubTexture name="mokou miss up0006" x="2102" y="3689" width="258" height="355" frameX="-22" frameY="-20" frameWidth="290" frameHeight="377"/>
+	<SubTexture name="mokou miss up0007" x="2360" y="3689" width="258" height="356" frameX="-22" frameY="-19" frameWidth="290" frameHeight="377"/>
+	<SubTexture name="mokou miss up0008" x="2618" y="3689" width="259" height="359" frameX="-21" frameY="-17" frameWidth="290" frameHeight="377"/>
+	<SubTexture name="mokou miss up0009" x="2877" y="3689" width="260" height="361" frameX="-20" frameY="-15" frameWidth="290" frameHeight="377"/>
+	<SubTexture name="mokou miss up0010" x="3137" y="3689" width="259" height="361" frameX="-20" frameY="-15" frameWidth="290" frameHeight="377"/>
+	<SubTexture name="mokou miss up0011" x="3396" y="3689" width="259" height="363" frameX="-20" frameY="-13" frameWidth="290" frameHeight="377"/>
+	<SubTexture name="mokou miss up0012" x="3655" y="3689" width="259" height="364" frameX="-19" frameY="-12" frameWidth="290" frameHeight="377"/>
+	<SubTexture name="mokou miss up0013" x="0" y="4053" width="261" height="365" frameX="-17" frameY="-11" frameWidth="290" frameHeight="377"/>
+	<SubTexture name="mokou miss up0014" x="261" y="4053" width="261" height="366" frameX="-16" frameY="-10" frameWidth="290" frameHeight="377"/>
+	<SubTexture name="mokou miss up0015" x="522" y="4053" width="262" height="367" frameX="-14" frameY="-9" frameWidth="290" frameHeight="377"/>
+	<SubTexture name="mokou miss up0016" x="784" y="4053" width="263" height="368" frameX="-13" frameY="-8" frameWidth="290" frameHeight="377"/>
+	<SubTexture name="mokou miss up0017" x="1047" y="4053" width="265" height="370" frameX="-10" frameY="-7" frameWidth="290" frameHeight="377"/>
+	<SubTexture name="mokou miss up0018" x="1312" y="4053" width="266" height="371" frameX="-9" frameY="-6" frameWidth="290" frameHeight="377"/>
+	<SubTexture name="mokou miss up0019" x="1578" y="4053" width="267" height="372" frameX="-7" frameY="-5" frameWidth="290" frameHeight="377"/>
+	<SubTexture name="mokou miss up0020" x="1845" y="4053" width="269" height="373" frameX="-5" frameY="-4" frameWidth="290" frameHeight="377"/>
+	<SubTexture name="mokou miss up0021" x="2114" y="4053" width="269" height="374" frameX="-4" frameY="-3" frameWidth="290" frameHeight="377"/>
+	<SubTexture name="mokou miss up0022" x="2383" y="4053" width="271" height="375" frameX="-2" frameY="-2" frameWidth="290" frameHeight="377"/>
+	<SubTexture name="mokou miss up0023" x="2654" y="4053" width="272" height="377" frameX="0" frameY="0" frameWidth="290" frameHeight="377"/>
+	<SubTexture name="mokou right0000" x="2227" y="2961" width="265" height="351" frameX="0" frameY="-8" frameWidth="307" frameHeight="364"/>
+	<SubTexture name="mokou right0001" x="2926" y="4053" width="269" height="354" frameX="-6" frameY="-7" frameWidth="328" frameHeight="373"/>
+	<SubTexture name="mokou right0002" x="3195" y="4053" width="271" height="357" frameX="-11" frameY="-6" frameWidth="328" frameHeight="373"/>
+	<SubTexture name="mokou right0003" x="3466" y="4053" width="275" height="359" frameX="-15" frameY="-5" frameWidth="328" frameHeight="373"/>
+	<SubTexture name="mokou right0004" x="3741" y="4053" width="277" height="362" frameX="-20" frameY="-4" frameWidth="328" frameHeight="373"/>
+	<SubTexture name="mokou right0005" x="0" y="4430" width="280" height="365" frameX="-24" frameY="-2" frameWidth="328" frameHeight="373"/>
+	<SubTexture name="mokou right0006" x="280" y="4430" width="282" height="365" frameX="-23" frameY="-2" frameWidth="328" frameHeight="373"/>
+	<SubTexture name="mokou right0007" x="562" y="4430" width="284" height="366" frameX="-23" frameY="-2" frameWidth="328" frameHeight="373"/>
+	<SubTexture name="mokou right0008" x="846" y="4430" width="285" height="366" frameX="-23" frameY="-2" frameWidth="328" frameHeight="373"/>
+	<SubTexture name="mokou right0009" x="1131" y="4430" width="286" height="366" frameX="-23" frameY="-2" frameWidth="328" frameHeight="373"/>
+	<SubTexture name="mokou right0010" x="1417" y="4430" width="288" height="367" frameX="-23" frameY="-2" frameWidth="328" frameHeight="373"/>
+	<SubTexture name="mokou right0011" x="1705" y="4430" width="290" height="367" frameX="-22" frameY="-2" frameWidth="328" frameHeight="373"/>
+	<SubTexture name="mokou right0012" x="1995" y="4430" width="291" height="369" frameX="-22" frameY="-1" frameWidth="328" frameHeight="373"/>
+	<SubTexture name="mokou right0013" x="2286" y="4430" width="293" height="369" frameX="-22" frameY="-1" frameWidth="328" frameHeight="373"/>
+	<SubTexture name="mokou right0014" x="2579" y="4430" width="294" height="369" frameX="-22" frameY="-1" frameWidth="328" frameHeight="373"/>
+	<SubTexture name="mokou right0015" x="2873" y="4430" width="295" height="370" frameX="-22" frameY="-1" frameWidth="328" frameHeight="373"/>
+	<SubTexture name="mokou right0016" x="3168" y="4430" width="297" height="370" frameX="-22" frameY="-1" frameWidth="328" frameHeight="373"/>
+	<SubTexture name="mokou right0017" x="3465" y="4430" width="298" height="370" frameX="-22" frameY="-1" frameWidth="328" frameHeight="373"/>
+	<SubTexture name="mokou right0018" x="3763" y="4430" width="300" height="372" frameX="-21" frameY="0" frameWidth="328" frameHeight="373"/>
+	<SubTexture name="mokou right0019" x="0" y="4802" width="301" height="371" frameX="-21" frameY="-1" frameWidth="328" frameHeight="373"/>
+	<SubTexture name="mokou right0020" x="301" y="4802" width="303" height="372" frameX="-21" frameY="0" frameWidth="328" frameHeight="373"/>
+	<SubTexture name="mokou right0021" x="604" y="4802" width="304" height="372" frameX="-21" frameY="0" frameWidth="328" frameHeight="373"/>
+	<SubTexture name="mokou right0022" x="908" y="4802" width="305" height="373" frameX="-21" frameY="0" frameWidth="328" frameHeight="373"/>
+	<SubTexture name="mokou right0023" x="1213" y="4802" width="307" height="373" frameX="-21" frameY="0" frameWidth="328" frameHeight="373"/>
+	<SubTexture name="mokou up0000" x="1520" y="4802" width="265" height="351" frameX="-35" frameY="-27" frameWidth="300" frameHeight="381"/>
+	<SubTexture name="mokou up0001" x="1785" y="4802" width="264" height="355" frameX="-36" frameY="-24" frameWidth="300" frameHeight="381"/>
+	<SubTexture name="mokou up0002" x="2049" y="4802" width="263" height="358" frameX="-36" frameY="-21" frameWidth="300" frameHeight="381"/>
+	<SubTexture name="mokou up0003" x="2312" y="4802" width="266" height="361" frameX="-33" frameY="-18" frameWidth="300" frameHeight="381"/>
+	<SubTexture name="mokou up0004" x="2578" y="4802" width="274" height="366" frameX="-25" frameY="-14" frameWidth="300" frameHeight="381"/>
+	<SubTexture name="mokou up0005" x="2852" y="4802" width="281" height="369" frameX="-17" frameY="-11" frameWidth="300" frameHeight="381"/>
+	<SubTexture name="mokou up0006" x="3133" y="4802" width="281" height="370" frameX="-16" frameY="-10" frameWidth="300" frameHeight="381"/>
+	<SubTexture name="mokou up0007" x="3414" y="4802" width="282" height="370" frameX="-15" frameY="-10" frameWidth="300" frameHeight="381"/>
+	<SubTexture name="mokou up0008" x="3696" y="4802" width="281" height="371" frameX="-15" frameY="-9" frameWidth="300" frameHeight="381"/>
+	<SubTexture name="mokou up0009" x="0" y="5175" width="282" height="372" frameX="-14" frameY="-8" frameWidth="300" frameHeight="381"/>
+	<SubTexture name="mokou up0010" x="282" y="5175" width="284" height="372" frameX="-12" frameY="-8" frameWidth="300" frameHeight="381"/>
+	<SubTexture name="mokou up0011" x="566" y="5175" width="285" height="373" frameX="-11" frameY="-7" frameWidth="300" frameHeight="381"/>
+	<SubTexture name="mokou up0012" x="851" y="5175" width="284" height="373" frameX="-11" frameY="-7" frameWidth="300" frameHeight="381"/>
+	<SubTexture name="mokou up0013" x="1135" y="5175" width="285" height="375" frameX="-10" frameY="-6" frameWidth="300" frameHeight="381"/>
+	<SubTexture name="mokou up0014" x="1420" y="5175" width="286" height="376" frameX="-9" frameY="-5" frameWidth="300" frameHeight="381"/>
+	<SubTexture name="mokou up0015" x="1706" y="5175" width="286" height="376" frameX="-8" frameY="-5" frameWidth="300" frameHeight="381"/>
+	<SubTexture name="mokou up0016" x="1992" y="5175" width="287" height="377" frameX="-7" frameY="-4" frameWidth="300" frameHeight="381"/>
+	<SubTexture name="mokou up0017" x="2279" y="5175" width="287" height="377" frameX="-6" frameY="-4" frameWidth="300" frameHeight="381"/>
+	<SubTexture name="mokou up0018" x="2566" y="5175" width="288" height="378" frameX="-5" frameY="-3" frameWidth="300" frameHeight="381"/>
+	<SubTexture name="mokou up0019" x="2854" y="5175" width="288" height="378" frameX="-4" frameY="-3" frameWidth="300" frameHeight="381"/>
+	<SubTexture name="mokou up0020" x="3142" y="5175" width="289" height="379" frameX="-3" frameY="-2" frameWidth="300" frameHeight="381"/>
+	<SubTexture name="mokou up0021" x="3431" y="5175" width="290" height="380" frameX="-2" frameY="-1" frameWidth="300" frameHeight="381"/>
+	<SubTexture name="mokou up0022" x="3721" y="5175" width="289" height="380" frameX="-2" frameY="-1" frameWidth="300" frameHeight="381"/>
+	<SubTexture name="mokou up0023" x="0" y="5555" width="291" height="381" frameX="0" frameY="0" frameWidth="300" frameHeight="381"/>
+</TextureAtlas>

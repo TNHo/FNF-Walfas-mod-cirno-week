@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="meiling.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="meilingsleepdown0000" x="0" y="0" width="225" height="348" frameX="-1" frameY="-4" frameWidth="268" frameHeight="361"/>
+	<SubTexture name="meilingsleepdown0001" x="0" y="0" width="225" height="348" frameX="-1" frameY="-4" frameWidth="268" frameHeight="361"/>
+	<SubTexture name="meilingsleepdown0002" x="225" y="0" width="240" height="355" frameX="-3" frameY="-1" frameWidth="268" frameHeight="361"/>
+	<SubTexture name="meilingsleepdown0003" x="225" y="0" width="240" height="355" frameX="-3" frameY="-1" frameWidth="268" frameHeight="361"/>
+	<SubTexture name="meilingsleepdown0004" x="225" y="0" width="240" height="355" frameX="-3" frameY="-1" frameWidth="268" frameHeight="361"/>
+	<SubTexture name="meilingsleepdown0005" x="225" y="0" width="240" height="355" frameX="-3" frameY="-1" frameWidth="268" frameHeight="361"/>
+	<SubTexture name="meilingsleepdown0006" x="225" y="0" width="240" height="355" frameX="-3" frameY="-1" frameWidth="268" frameHeight="361"/>
+	<SubTexture name="meilingsleepdown0007" x="225" y="0" width="240" height="355" frameX="-3" frameY="-1" frameWidth="268" frameHeight="361"/>
+	<SubTexture name="meilingsleepdown0008" x="225" y="0" width="240" height="355" frameX="-3" frameY="-1" frameWidth="268" frameHeight="361"/>
+	<SubTexture name="meilingsleepdown0009" x="465" y="0" width="268" height="361"/>
+	<SubTexture name="meilingsleepdown0010" x="465" y="0" width="268" height="361"/>
+	<SubTexture name="meilingsleepdown0011" x="465" y="0" width="268" height="361"/>
+	<SubTexture name="meilingsleepdown0012" x="465" y="0" width="268" height="361"/>
+	<SubTexture name="meilingsleepdown0013" x="465" y="0" width="268" height="361"/>
+	<SubTexture name="meilingsleepdown0014" x="465" y="0" width="268" height="361"/>
+	<SubTexture name="meilingsleepidle0000" x="733" y="0" width="225" height="348" frameX="-17" frameY="-5" frameWidth="251" frameHeight="353"/>
+	<SubTexture name="meilingsleepidle0001" x="958" y="0" width="225" height="348" frameX="-17" frameY="-5" frameWidth="251" frameHeight="353"/>
+	<SubTexture name="meilingsleepidle0002" x="1183" y="0" width="234" height="350" frameX="-11" frameY="-3" frameWidth="251" frameHeight="353"/>
+	<SubTexture name="meilingsleepidle0003" x="1417" y="0" width="242" height="351" frameX="-6" frameY="-2" frameWidth="251" frameHeight="353"/>
+	<SubTexture name="meilingsleepidle0004" x="1659" y="0" width="251" height="353"/>
+	<SubTexture name="meilingsleepidle0005" x="0" y="361" width="245" height="352" frameX="-4" frameY="-1" frameWidth="251" frameHeight="353"/>
+	<SubTexture name="meilingsleepidle0006" x="245" y="361" width="239" height="351" frameX="-8" frameY="-2" frameWidth="251" frameHeight="353"/>
+	<SubTexture name="meilingsleepidle0007" x="484" y="361" width="233" height="350" frameX="-12" frameY="-3" frameWidth="251" frameHeight="353"/>
+	<SubTexture name="meilingsleepidle0008" x="958" y="0" width="225" height="348" frameX="-17" frameY="-5" frameWidth="251" frameHeight="353"/>
+	<SubTexture name="meilingsleepidle0009" x="717" y="361" width="228" height="349" frameX="-16" frameY="-4" frameWidth="251" frameHeight="353"/>
+	<SubTexture name="meilingsleepidle0010" x="945" y="361" width="232" height="351" frameX="-15" frameY="-2" frameWidth="251" frameHeight="353"/>
+	<SubTexture name="meilingsleepidle0011" x="1177" y="361" width="236" height="352" frameX="-13" frameY="-1" frameWidth="251" frameHeight="353"/>
+	<SubTexture name="meilingsleepidle0012" x="1413" y="361" width="232" height="351" frameX="-15" frameY="-2" frameWidth="251" frameHeight="353"/>
+	<SubTexture name="meilingsleepidle0013" x="1645" y="361" width="228" height="349" frameX="-16" frameY="-4" frameWidth="251" frameHeight="353"/>
+	<SubTexture name="meilingsleepidle0014" x="958" y="0" width="225" height="348" frameX="-17" frameY="-5" frameWidth="251" frameHeight="353"/>
+	<SubTexture name="meilingsleepleft0000" x="0" y="713" width="239" height="356" frameX="-20" frameY="-6" frameWidth="259" frameHeight="363"/>
+	<SubTexture name="meilingsleepleft0001" x="0" y="713" width="239" height="356" frameX="-20" frameY="-6" frameWidth="259" frameHeight="363"/>
+	<SubTexture name="meilingsleepleft0002" x="239" y="713" width="256" height="363" frameX="0" frameY="0" frameWidth="259" frameHeight="363"/>
+	<SubTexture name="meilingsleepleft0003" x="239" y="713" width="256" height="363" frameX="0" frameY="0" frameWidth="259" frameHeight="363"/>
+	<SubTexture name="meilingsleepleft0004" x="239" y="713" width="256" height="363" frameX="0" frameY="0" frameWidth="259" frameHeight="363"/>
+	<SubTexture name="meilingsleepleft0005" x="239" y="713" width="256" height="363" frameX="0" frameY="0" frameWidth="259" frameHeight="363"/>
+	<SubTexture name="meilingsleepleft0006" x="239" y="713" width="256" height="363" frameX="0" frameY="0" frameWidth="259" frameHeight="363"/>
+	<SubTexture name="meilingsleepleft0007" x="239" y="713" width="256" height="363" frameX="0" frameY="0" frameWidth="259" frameHeight="363"/>
+	<SubTexture name="meilingsleepleft0008" x="239" y="713" width="256" height="363" frameX="0" frameY="0" frameWidth="259" frameHeight="363"/>
+	<SubTexture name="meilingsleepleft0009" x="239" y="713" width="256" height="363" frameX="0" frameY="0" frameWidth="259" frameHeight="363"/>
+	<SubTexture name="meilingsleepleft0010" x="239" y="713" width="256" height="363" frameX="0" frameY="0" frameWidth="259" frameHeight="363"/>
+	<SubTexture name="meilingsleepleft0011" x="239" y="713" width="256" height="363" frameX="0" frameY="0" frameWidth="259" frameHeight="363"/>
+	<SubTexture name="meilingsleepleft0012" x="239" y="713" width="256" height="363" frameX="0" frameY="0" frameWidth="259" frameHeight="363"/>
+	<SubTexture name="meilingsleepleft0013" x="239" y="713" width="256" height="363" frameX="0" frameY="0" frameWidth="259" frameHeight="363"/>
+	<SubTexture name="meilingsleepleft0014" x="239" y="713" width="256" height="363" frameX="0" frameY="0" frameWidth="259" frameHeight="363"/>
+	<SubTexture name="meilingsleepleft0015" x="239" y="713" width="256" height="363" frameX="0" frameY="0" frameWidth="259" frameHeight="363"/>
+	<SubTexture name="meilingsleepleft0016" x="239" y="713" width="256" height="363" frameX="0" frameY="0" frameWidth="259" frameHeight="363"/>
+	<SubTexture name="meilingsleepleft0017" x="239" y="713" width="256" height="363" frameX="0" frameY="0" frameWidth="259" frameHeight="363"/>
+	<SubTexture name="meilingsleepleft0018" x="239" y="713" width="256" height="363" frameX="0" frameY="0" frameWidth="259" frameHeight="363"/>
+	<SubTexture name="meilingsleepleft0019" x="239" y="713" width="256" height="363" frameX="0" frameY="0" frameWidth="259" frameHeight="363"/>
+	<SubTexture name="meilingsleepleft0020" x="239" y="713" width="256" height="363" frameX="0" frameY="0" frameWidth="259" frameHeight="363"/>
+	<SubTexture name="meilingsleepleft0021" x="239" y="713" width="256" height="363" frameX="0" frameY="0" frameWidth="259" frameHeight="363"/>
+	<SubTexture name="meilingsleepleft0022" x="239" y="713" width="256" height="363" frameX="0" frameY="0" frameWidth="259" frameHeight="363"/>
+	<SubTexture name="meilingsleepleft0023" x="239" y="713" width="256" height="363" frameX="0" frameY="0" frameWidth="259" frameHeight="363"/>
+	<SubTexture name="meilingsleepleft0024" x="239" y="713" width="256" height="363" frameX="0" frameY="0" frameWidth="259" frameHeight="363"/>
+	<SubTexture name="meilingsleepright0000" x="495" y="713" width="243" height="357" frameX="-3" frameY="-6" frameWidth="270" frameHeight="366"/>
+	<SubTexture name="meilingsleepright0001" x="495" y="713" width="243" height="357" frameX="-3" frameY="-6" frameWidth="270" frameHeight="366"/>
+	<SubTexture name="meilingsleepright0002" x="738" y="713" width="270" height="366"/>
+	<SubTexture name="meilingsleepright0003" x="738" y="713" width="270" height="366"/>
+	<SubTexture name="meilingsleepright0004" x="738" y="713" width="270" height="366"/>
+	<SubTexture name="meilingsleepright0005" x="738" y="713" width="270" height="366"/>
+	<SubTexture name="meilingsleepright0006" x="738" y="713" width="270" height="366"/>
+	<SubTexture name="meilingsleepright0007" x="738" y="713" width="270" height="366"/>
+	<SubTexture name="meilingsleepright0008" x="738" y="713" width="270" height="366"/>
+	<SubTexture name="meilingsleepright0009" x="738" y="713" width="270" height="366"/>
+	<SubTexture name="meilingsleepright0010" x="738" y="713" width="270" height="366"/>
+	<SubTexture name="meilingsleepright0011" x="738" y="713" width="270" height="366"/>
+	<SubTexture name="meilingsleepright0012" x="738" y="713" width="270" height="366"/>
+	<SubTexture name="meilingsleepright0013" x="738" y="713" width="270" height="366"/>
+	<SubTexture name="meilingsleepright0014" x="738" y="713" width="270" height="366"/>
+	<SubTexture name="meilingsleepright0015" x="738" y="713" width="270" height="366"/>
+	<SubTexture name="meilingsleepright0016" x="738" y="713" width="270" height="366"/>
+	<SubTexture name="meilingsleepright0017" x="738" y="713" width="270" height="366"/>
+	<SubTexture name="meilingsleepright0018" x="738" y="713" width="270" height="366"/>
+	<SubTexture name="meilingsleepright0019" x="738" y="713" width="270" height="366"/>
+	<SubTexture name="meilingsleepright0020" x="738" y="713" width="270" height="366"/>
+	<SubTexture name="meilingsleepright0021" x="738" y="713" width="270" height="366"/>
+	<SubTexture name="meilingsleepright0022" x="738" y="713" width="270" height="366"/>
+	<SubTexture name="meilingsleepright0023" x="738" y="713" width="270" height="366"/>
+	<SubTexture name="meilingsleepright0024" x="738" y="713" width="270" height="366"/>
+	<SubTexture name="meilingsleepup0000" x="1008" y="713" width="225" height="348" frameX="-12" frameY="-11" frameWidth="237" frameHeight="360"/>
+	<SubTexture name="meilingsleepup0001" x="1008" y="713" width="225" height="348" frameX="-12" frameY="-11" frameWidth="237" frameHeight="360"/>
+	<SubTexture name="meilingsleepup0002" x="1233" y="713" width="235" height="360" frameX="0" frameY="0" frameWidth="237" frameHeight="360"/>
+	<SubTexture name="meilingsleepup0003" x="1233" y="713" width="235" height="360" frameX="0" frameY="0" frameWidth="237" frameHeight="360"/>
+	<SubTexture name="meilingsleepup0004" x="1233" y="713" width="235" height="360" frameX="0" frameY="0" frameWidth="237" frameHeight="360"/>
+	<SubTexture name="meilingsleepup0005" x="1233" y="713" width="235" height="360" frameX="0" frameY="0" frameWidth="237" frameHeight="360"/>
+	<SubTexture name="meilingsleepup0006" x="1233" y="713" width="235" height="360" frameX="0" frameY="0" frameWidth="237" frameHeight="360"/>
+	<SubTexture name="meilingsleepup0007" x="1233" y="713" width="235" height="360" frameX="0" frameY="0" frameWidth="237" frameHeight="360"/>
+	<SubTexture name="meilingsleepup0008" x="1233" y="713" width="235" height="360" frameX="0" frameY="0" frameWidth="237" frameHeight="360"/>
+	<SubTexture name="meilingsleepup0009" x="1233" y="713" width="235" height="360" frameX="0" frameY="0" frameWidth="237" frameHeight="360"/>
+	<SubTexture name="meilingsleepup0010" x="1233" y="713" width="235" height="360" frameX="0" frameY="0" frameWidth="237" frameHeight="360"/>
+	<SubTexture name="meilingsleepup0011" x="1233" y="713" width="235" height="360" frameX="0" frameY="0" frameWidth="237" frameHeight="360"/>
+	<SubTexture name="meilingsleepup0012" x="1233" y="713" width="235" height="360" frameX="0" frameY="0" frameWidth="237" frameHeight="360"/>
+	<SubTexture name="meilingsleepup0013" x="1233" y="713" width="235" height="360" frameX="0" frameY="0" frameWidth="237" frameHeight="360"/>
+	<SubTexture name="meilingsleepup0014" x="1233" y="713" width="235" height="360" frameX="0" frameY="0" frameWidth="237" frameHeight="360"/>
+</TextureAtlas>

@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="rumia.png">
+	<!-- Created with Adobe Animate version 18.0.0.107 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="rumia_down0000" x="0" y="0" width="378" height="371" frameX="0" frameY="-6" frameWidth="395" frameHeight="397"/>
+	<SubTexture name="rumia_down0001" x="0" y="0" width="378" height="371" frameX="0" frameY="-6" frameWidth="395" frameHeight="397"/>
+	<SubTexture name="rumia_down0002" x="0" y="0" width="378" height="371" frameX="0" frameY="-6" frameWidth="395" frameHeight="397"/>
+	<SubTexture name="rumia_down0003" x="378" y="0" width="395" height="388" frameX="0" frameY="0" frameWidth="395" frameHeight="397"/>
+	<SubTexture name="rumia_down0004" x="378" y="0" width="395" height="388" frameX="0" frameY="0" frameWidth="395" frameHeight="397"/>
+	<SubTexture name="rumia_down0005" x="378" y="0" width="395" height="388" frameX="0" frameY="0" frameWidth="395" frameHeight="397"/>
+	<SubTexture name="rumia_down0006" x="773" y="0" width="395" height="389" frameX="0" frameY="-8" frameWidth="395" frameHeight="397"/>
+	<SubTexture name="rumia_down0007" x="773" y="0" width="395" height="389" frameX="0" frameY="-8" frameWidth="395" frameHeight="397"/>
+	<SubTexture name="rumia_down0008" x="773" y="0" width="395" height="389" frameX="0" frameY="-8" frameWidth="395" frameHeight="397"/>
+	<SubTexture name="rumia_down0009" x="773" y="0" width="395" height="389" frameX="0" frameY="-8" frameWidth="395" frameHeight="397"/>
+	<SubTexture name="rumia_idle0000" x="1168" y="0" width="373" height="373" frameX="-12" frameY="-12" frameWidth="413" frameHeight="404"/>
+	<SubTexture name="rumia_idle0001" x="1168" y="0" width="373" height="373" frameX="-12" frameY="-12" frameWidth="413" frameHeight="404"/>
+	<SubTexture name="rumia_idle0002" x="1168" y="0" width="373" height="373" frameX="-12" frameY="-12" frameWidth="413" frameHeight="404"/>
+	<SubTexture name="rumia_idle0003" x="1541" y="0" width="387" height="387" frameX="0" frameY="-5" frameWidth="413" frameHeight="404"/>
+	<SubTexture name="rumia_idle0004" x="1541" y="0" width="387" height="387" frameX="0" frameY="-5" frameWidth="413" frameHeight="404"/>
+	<SubTexture name="rumia_idle0005" x="1541" y="0" width="387" height="387" frameX="0" frameY="-5" frameWidth="413" frameHeight="404"/>
+	<SubTexture name="rumia_idle0006" x="0" y="389" width="404" height="404" frameX="-9" frameY="0" frameWidth="413" frameHeight="404"/>
+	<SubTexture name="rumia_idle0007" x="0" y="389" width="404" height="404" frameX="-9" frameY="0" frameWidth="413" frameHeight="404"/>
+	<SubTexture name="rumia_idle0008" x="0" y="389" width="404" height="404" frameX="-9" frameY="0" frameWidth="413" frameHeight="404"/>
+	<SubTexture name="rumia_idle0009" x="0" y="389" width="404" height="404" frameX="-9" frameY="0" frameWidth="413" frameHeight="404"/>
+	<SubTexture name="rumia_left0000" x="404" y="389" width="378" height="371" frameX="-23" frameY="-12" frameWidth="403" frameHeight="392"/>
+	<SubTexture name="rumia_left0001" x="404" y="389" width="378" height="371" frameX="-23" frameY="-12" frameWidth="403" frameHeight="392"/>
+	<SubTexture name="rumia_left0002" x="404" y="389" width="378" height="371" frameX="-23" frameY="-12" frameWidth="403" frameHeight="392"/>
+	<SubTexture name="rumia_left0003" x="404" y="389" width="378" height="371" frameX="-23" frameY="-12" frameWidth="403" frameHeight="392"/>
+	<SubTexture name="rumia_left0004" x="782" y="389" width="398" height="392" frameX="-5" frameY="0" frameWidth="403" frameHeight="392"/>
+	<SubTexture name="rumia_left0005" x="782" y="389" width="398" height="392" frameX="-5" frameY="0" frameWidth="403" frameHeight="392"/>
+	<SubTexture name="rumia_left0006" x="782" y="389" width="398" height="392" frameX="-5" frameY="0" frameWidth="403" frameHeight="392"/>
+	<SubTexture name="rumia_left0007" x="1180" y="389" width="398" height="392" frameX="0" frameY="0" frameWidth="403" frameHeight="392"/>
+	<SubTexture name="rumia_left0008" x="1180" y="389" width="398" height="392" frameX="0" frameY="0" frameWidth="403" frameHeight="392"/>
+	<SubTexture name="rumia_left0009" x="1180" y="389" width="398" height="392" frameX="0" frameY="0" frameWidth="403" frameHeight="392"/>
+	<SubTexture name="rumia_missnote0000" x="1578" y="389" width="378" height="371" frameX="-14" frameY="0" frameWidth="397" frameHeight="376"/>
+	<SubTexture name="rumia_missnote0001" x="1578" y="389" width="378" height="371" frameX="-14" frameY="0" frameWidth="397" frameHeight="376"/>
+	<SubTexture name="rumia_missnote0002" x="1578" y="389" width="378" height="371" frameX="-14" frameY="0" frameWidth="397" frameHeight="376"/>
+	<SubTexture name="rumia_missnote0003" x="1578" y="389" width="378" height="371" frameX="-14" frameY="0" frameWidth="397" frameHeight="376"/>
+	<SubTexture name="rumia_missnote0004" x="0" y="793" width="390" height="376" frameX="-3" frameY="0" frameWidth="397" frameHeight="376"/>
+	<SubTexture name="rumia_missnote0005" x="0" y="793" width="390" height="376" frameX="-3" frameY="0" frameWidth="397" frameHeight="376"/>
+	<SubTexture name="rumia_missnote0006" x="0" y="793" width="390" height="376" frameX="-3" frameY="0" frameWidth="397" frameHeight="376"/>
+	<SubTexture name="rumia_missnote0007" x="390" y="793" width="397" height="370" frameX="0" frameY="-5" frameWidth="397" frameHeight="376"/>
+	<SubTexture name="rumia_missnote0008" x="390" y="793" width="397" height="370" frameX="0" frameY="-5" frameWidth="397" frameHeight="376"/>
+	<SubTexture name="rumia_missnote0009" x="390" y="793" width="397" height="370" frameX="0" frameY="-5" frameWidth="397" frameHeight="376"/>
+	<SubTexture name="rumia_right0000" x="787" y="793" width="378" height="371" frameX="0" frameY="-11" frameWidth="402" frameHeight="394"/>
+	<SubTexture name="rumia_right0001" x="787" y="793" width="378" height="371" frameX="0" frameY="-11" frameWidth="402" frameHeight="394"/>
+	<SubTexture name="rumia_right0002" x="787" y="793" width="378" height="371" frameX="0" frameY="-11" frameWidth="402" frameHeight="394"/>
+	<SubTexture name="rumia_right0003" x="787" y="793" width="378" height="371" frameX="0" frameY="-11" frameWidth="402" frameHeight="394"/>
+	<SubTexture name="rumia_right0004" x="1165" y="793" width="378" height="371" frameX="0" frameY="-11" frameWidth="402" frameHeight="394"/>
+	<SubTexture name="rumia_right0005" x="1165" y="793" width="378" height="371" frameX="0" frameY="-11" frameWidth="402" frameHeight="394"/>
+	<SubTexture name="rumia_right0006" x="1165" y="793" width="378" height="371" frameX="0" frameY="-11" frameWidth="402" frameHeight="394"/>
+	<SubTexture name="rumia_right0007" x="1543" y="793" width="402" height="394"/>
+	<SubTexture name="rumia_right0008" x="1543" y="793" width="402" height="394"/>
+	<SubTexture name="rumia_right0009" x="1543" y="793" width="402" height="394"/>
+	<SubTexture name="rumia_up0000" x="0" y="1187" width="378" height="371" frameX="-10" frameY="-18" frameWidth="399" frameHeight="400"/>
+	<SubTexture name="rumia_up0001" x="0" y="1187" width="378" height="371" frameX="-10" frameY="-18" frameWidth="399" frameHeight="400"/>
+	<SubTexture name="rumia_up0002" x="0" y="1187" width="378" height="371" frameX="-10" frameY="-18" frameWidth="399" frameHeight="400"/>
+	<SubTexture name="rumia_up0003" x="378" y="1187" width="399" height="392" frameX="0" frameY="-8" frameWidth="399" frameHeight="400"/>
+	<SubTexture name="rumia_up0004" x="378" y="1187" width="399" height="392" frameX="0" frameY="-8" frameWidth="399" frameHeight="400"/>
+	<SubTexture name="rumia_up0005" x="378" y="1187" width="399" height="392" frameX="0" frameY="-8" frameWidth="399" frameHeight="400"/>
+	<SubTexture name="rumia_up0006" x="777" y="1187" width="399" height="392" frameX="0" frameY="0" frameWidth="399" frameHeight="400"/>
+	<SubTexture name="rumia_up0007" x="777" y="1187" width="399" height="392" frameX="0" frameY="0" frameWidth="399" frameHeight="400"/>
+	<SubTexture name="rumia_up0008" x="777" y="1187" width="399" height="392" frameX="0" frameY="0" frameWidth="399" frameHeight="400"/>
+	<SubTexture name="rumia_up0009" x="777" y="1187" width="399" height="392" frameX="0" frameY="0" frameWidth="399" frameHeight="400"/>
+</TextureAtlas>
