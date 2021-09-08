@@ -1,7 +1,7 @@
-:dad:Oh look, its a human!
-:bf:Bep?
-:dad:This one looks pretty tasty!
-:bf:beep boop?
-:dad:I'm gonna eat you!
-:bf:...
+:rumia:Oh look, its a human!
+:bfrumia:Bep?
+:rumia:This one looks pretty tasty!
+:bfrumia:beep boop?
+:rumia:I'm gonna eat you!
+:bfrumia:...
 

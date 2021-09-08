@@ -30,7 +30,9 @@ class DialogueBox extends FlxSpriteGroup
 
 	var portraitLeft:FlxSprite;
 	var portraitLeftcirno:FlxSprite;
+	var portraitLeftrumia:FlxSprite;
 	var portraitRight:FlxSprite;
+	var portraitRightbfrumia:FlxSprite;
 
 	var handSelect:FlxSprite;
 	var bgFade:FlxSprite;
@@ -246,7 +248,7 @@ class DialogueBox extends FlxSpriteGroup
 			add(portraitLeft);
 			portraitLeft.visible = false;
 		}
-		if (PlayState.SONG.song.toLowerCase()=='cirno-perfect-math-class')
+		if (PlayState.SONG.song.toLowerCase()=='cirno-perfect-math-class' || PlayState.SONG.song.toLowerCase()=='beloved-tomboyish-girl')
 			{
 			portraitLeftcirno = new FlxSprite(-50, 49);
 			portraitLeftcirno.frames = Paths.getSparrowAtlas('portraits/picoAngryPortrait', 'shared');
@@ -257,6 +259,17 @@ class DialogueBox extends FlxSpriteGroup
 			add(portraitLeftcirno);
 			portraitLeftcirno.visible = false;	
 			}
+		if (PlayState.SONG.song.toLowerCase()=='rumia')
+		{
+			portraitLeftrumia = new FlxSprite(-50, 49);
+			portraitLeftrumia.frames = Paths.getSparrowAtlas('portraits/rumiaPortrait', 'shared');
+			portraitLeftrumia.animation.addByPrefix('enter', 'Dad Portrait Enter', 24, false);
+			portraitLeftrumia.setGraphicSize(Std.int(portraitLeft.width * PlayState.daPixelZoom * 0.17));
+			portraitLeftrumia.updateHitbox();
+			portraitLeftrumia.scrollFactor.set();
+			add(portraitLeftrumia);
+			portraitLeftrumia.visible = false;
+		}
 		if (PlayState.SONG.song.toLowerCase()=='senpai' || PlayState.SONG.song.toLowerCase()=='roses' || PlayState.SONG.song.toLowerCase()=='thorns')
 		{
 		portraitRight = new FlxSprite(0, 40);
@@ -268,7 +281,7 @@ class DialogueBox extends FlxSpriteGroup
 		add(portraitRight);
 		portraitRight.visible = false;
 		}
-		else if (PlayState.SONG.song.toLowerCase()=='voile-the-magic-library' || PlayState.SONG.song.toLowerCase()=='centennial-festival' || PlayState.SONG.song.toLowerCase()=='locked-girl')
+		else if (PlayState.SONG.song.toLowerCase()=='cirno-perfect-math-class' || PlayState.SONG.song.toLowerCase()=='beloved-tomboyish-girl' || PlayState.SONG.song.toLowerCase()=='rumia' || PlayState.SONG.song.toLowerCase()=='chinese-tea' || PlayState.SONG.song.toLowerCase()=='voile-the-magic-library' || PlayState.SONG.song.toLowerCase()=='centennial-festival' || PlayState.SONG.song.toLowerCase()=='locked-girl')
 		{
 		portraitRight = new FlxSprite(-50, 40);
 		portraitRight.frames = Paths.getSparrowAtlas('portraits/boyfriendPortrait', 'shared');
@@ -279,20 +292,18 @@ class DialogueBox extends FlxSpriteGroup
 		add(portraitRight);
 		portraitRight.visible = false;	
 		}
-		else if (PlayState.SONG.song.toLowerCase()=='cirno-perfect-math-class' || PlayState.SONG.song.toLowerCase()=='beloved-tomboyish-girl' || PlayState.SONG.song.toLowerCase()=='rumia' || PlayState.SONG.song.toLowerCase()=='chinese-tea')
+		if (PlayState.SONG.song.toLowerCase()=='rumia')
 		{
-		portraitRight = new FlxSprite(-50, 40);
-		portraitRight.frames = Paths.getSparrowAtlas('portraits/boyfriendPortrait', 'shared');
-		portraitRight.animation.addByPrefix('enter', 'BF Portrait Enter', 24, false);
-		portraitRight.setGraphicSize(Std.int(portraitRight.width * PlayState.daPixelZoom * 0.15));
-		portraitRight.updateHitbox();
-		portraitRight.scrollFactor.set();
-		add(portraitRight);
-		portraitRight.visible = false;	
+		portraitRightbfrumia = new FlxSprite(-50, 49);
+		portraitRightbfrumia.frames = Paths.getSparrowAtlas('portraits/boyfriendPortrait', 'shared');
+		portraitRightbfrumia.animation.addByPrefix('enter', 'BF Portrait Enter', 24, false);
+		portraitRightbfrumia.setGraphicSize(Std.int(portraitRight.width * PlayState.daPixelZoom * 0.17));
+		portraitRightbfrumia.updateHitbox();
+		portraitRightbfrumia.scrollFactor.set();
+		add(portraitRightbfrumia);
+		portraitRightbfrumia.visible = false;	
 		}
 
-		
-		
 		box.animation.play('normalOpen');
 		box.setGraphicSize(Std.int(box.width * PlayState.daPixelZoom * 0.9));
 		box.updateHitbox();
@@ -430,6 +441,14 @@ class DialogueBox extends FlxSpriteGroup
 					portraitLeftcirno.visible = true;
 					portraitLeftcirno.animation.play('enter');
 				}
+			case 'rumia':
+				portraitRight.visible = false;
+				portraitRightbfrumia.visible = false;
+				if (!portraitLeftrumia.visible)
+				{
+					portraitLeftrumia.visible = true;
+					portraitLeftrumia.animation.play('enter');
+				}
 			case 'bf':
 				portraitLeft.visible = false;
 				portraitLeftcirno.visible = false;
@@ -438,7 +457,14 @@ class DialogueBox extends FlxSpriteGroup
 					portraitRight.visible = true;
 					portraitRight.animation.play('enter');
 				}
-
+			case 'bfrumia':
+				portraitLeft.visible = false;
+				portraitLeftrumia.visible = false;
+				if (!portraitRightbfrumia.visible)
+				{
+					portraitRightbfrumia.visible = true;
+					portraitRightbfrumia.animation.play('enter');
+				}
 		}
 	}
 
